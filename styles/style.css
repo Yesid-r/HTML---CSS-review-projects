@@ -1,0 +1,23 @@
+.padre{
+    background:  #f23000;
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    padding: 40px;
+    
+}   
+.hijo{
+    background: black;
+    height: 80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+
+    
+} 
+.segundoHijo{
+    background: white;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+}
